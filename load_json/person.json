@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Aakash Goel",
+        "age": "20",
+        "mobile": "8791431819",
+        "address": "Aryabhatt Hostel"
+    },
+    {
+        "name": "Sunil Goel",
+        "age": "46",
+        "mobile": "8791802930",
+        "address": "Saroj Niwas"
+    },
+    {
+        "name": "Sushma Goel",
+        "age": "40",
+        "mobile": "9808224242",
+        "address": "Saroj Niwas"
+    },
+    {
+        "name": "Saroj Goel",
+        "age": "75",
+        "mobile": "8125359525",
+        "address": "Saroj Niwas"
+    },
+    {
+        "name": "MS Dhoni",
+        "age": "38",
+        "mobile": "9259183188",
+        "address": "Thala Chennai"
+    }
+]
